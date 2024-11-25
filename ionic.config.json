@@ -1,0 +1,7 @@
+{
+  "name": "Froga1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
